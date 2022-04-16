@@ -3,11 +3,11 @@
   padding: 0px;
 }
 body {
-  background: url("/img/pattern.png");
+  background: url("img/pattern.png");
 }
 @font-face {
   font-family: Merriweather;
-  src: url(/fonts/Merriweather-BoldItalic.ttf);
+  src: url(fonts/Merriweather-BoldItalic.ttf);
 }
 
 header {
@@ -16,9 +16,9 @@ header {
   padding: 7px;
   margin: 0px auto;
   margin-top: 5px;
-  background-image: url(/img/fotoback01.jpg);
+  background-image: url(img/fotoback01.jpg);
   background-position-x: 50%;
-  /*background-image:url(/img/bakbaner.png)
+  /*background-image:url(img/bakbaner.png)
     background-position: -275px -160px;
   overflow: hidden;*/
   animation: fotoback 10s linear;
